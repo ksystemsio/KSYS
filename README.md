@@ -1,4 +1,4 @@
 # KSYS
-The KSYS ERC20 Token ICO Contracts, based on the Token Market contracts. 
+The KSYS (K Systems LTD) ERC20 Token PreICO and ICO Contracts. 
 
-Let us build your ICO and landing pages: https://ksystems.io
+
